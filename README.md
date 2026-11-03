@@ -6,7 +6,7 @@ Shopsy is a shopping website project featuring product browsing, cart management
 
 🌐 Live Demo
 
-    "Visit Shopsy Website" (https://aniket-767.github.io/shopsy_store/)
+"Visit Shopsy Website" (https://aniket-767.github.io/shopsy_store/)
 
 ✨ Features
 
