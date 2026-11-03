@@ -1,19 +1,19 @@
 🛍️ Shopsy – E-commerce Website
 
-A modern, responsive e-commerce frontend built using React, JavaScript, Tailwind CSS, and Vite.
+A modern and responsive e-commerce frontend built using React.js, JavaScript, Tailwind CSS, and Vite.
 
-Shopsy provides a shopping experience with product browsing, search, filtering, wishlist, cart management, checkout, and order history.
+Shopsy is a shopping website project featuring product browsing, cart management, wishlist, checkout, and order history.
 
 🌐 Live Demo
 
-"Visit Shopsy" (https://aniket-767.github.io/shopsy_store/)
+    "Visit Shopsy Website" (https://aniket-767.github.io/shopsy_store/)
 
 ✨ Features
 
 - Responsive design for desktop and mobile
 - Product listing and product details
-- Product search and category filtering
-- Product sorting
+- Product search
+- Category filtering and sorting
 - Shopping cart with quantity management
 - Wishlist functionality
 - Checkout page
@@ -22,34 +22,43 @@ Shopsy provides a shopping experience with product browsing, search, filtering, 
 - Order cancellation
 - Sale section
 - About and Contact sections
-- Data persistence using browser LocalStorage
+- LocalStorage for saving cart, wishlist, and orders
 
 🛠️ Tech Stack
 
-Technology| Purpose
-React.js| UI development
-JavaScript (ES6+)| Application logic
-Tailwind CSS| Styling and responsive design
-Vite| Development and build tool
-HTML5| Application structure
-CSS3| Additional styling
-Lucide React| Icons
-LocalStorage| Browser-side data persistence
-GitHub Pages| Website deployment
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- Vite
+- HTML5
+- CSS3
+- Lucide React
+- Browser LocalStorage
 
-📸 Project Overview
+📂 Project Structure
 
-Shopsy is a frontend e-commerce project created to practice React component architecture, state management, responsive UI development, and browser storage.
+shopsy_store/
+│
+├── assets/             # Production website assets
+├── index.html          # Production entry point
+├── source/             # Original React source code
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   ├── package-lock.json
+│   └── vite.config.js
+│
+└── README.md
 
 🚀 Run Locally
 
-Clone the repository:
+Clone this repository:
 
     git clone https://github.com/Aniket-767/shopsy_store.git
 
-Move into the project directory:
+Move into the source directory:
 
-    cd shopsy_store
+    cd shopsy_store/source
 
 Install dependencies:
 
@@ -59,38 +68,24 @@ Start the development server:
 
     npm run dev
 
-Create a production build:
+Build for production:
 
     npm run build
-
-📁 Main Project Structure
-
-shopsy_store/
-├── public/
-├── src/
-│   ├── components/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-├── package-lock.json
-└── vite.config.js
 
 ⚠️ Project Limitations
 
 - This is a frontend-only project.
+- No backend database is connected.
+- No real payment gateway is integrated.
 - Cart, wishlist, and order information are stored in browser LocalStorage.
-- No backend database or real payment gateway is connected.
-- Order management is for frontend demonstration purposes.
+- Order management is for demonstration purposes.
 
 👨‍💻 Developer
 
 Aniket Bari
 
-- GitHub: "Aniket-767" (https://github.com/Aniket-767)
-- Project: Shopsy – E-commerce Website
+GitHub: "@Aniket-767" (https://github.com/Aniket-767)
 
----
+⭐ Support
 
-⭐ If you like this project, consider giving the repository a star!
+If you like this project, consider giving the repository a star!
