@@ -24,6 +24,25 @@ Shopsy is a shopping website project featuring product browsing, cart management
 - About and Contact sections
 - LocalStorage for saving cart, wishlist, and orders
 
+
+📸 Screenshots
+
+🏠 Homepage
+
+"Shopsy Homepage" (screenshots/homepage.png)
+
+🛒 Shopping Cart
+
+"Shopsy Cart" (screenshots/cart.png)
+
+❤️ Wishlist
+
+"Shopsy Wishlist" (screenshots/wishlist.png)
+
+📦 Order History
+
+"Shopsy Order History" (screenshots/orders.png)
+
 🛠️ Tech Stack
 
 - React.js
