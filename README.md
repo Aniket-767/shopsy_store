@@ -24,24 +24,23 @@ Shopsy is a shopping website project featuring product browsing, cart management
 - About and Contact sections
 - LocalStorage for saving cart, wishlist, and orders
 
-
 📸 Screenshots
 
 🏠 Homepage
 
-"Shopsy Homepage" (./screenshots/homepage.png)
+"Shopsy Homepage" (https://raw.githubusercontent.com/Aniket-767/shopsy_store/main/screenshots/homepage.png)
 
 🛒 Shopping Cart
 
-"Shopsy Shopping Cart" (./screenshots/cart.png)
+"Shopsy Shopping Cart" (https://raw.githubusercontent.com/Aniket-767/shopsy_store/main/screenshots/cart.png)
 
 ❤️ Wishlist
 
-"Shopsy Wishlist" (./screenshots/wishlist.png)
+"Shopsy Wishlist" (https://raw.githubusercontent.com/Aniket-767/shopsy_store/main/screenshots/wishlist.png)
 
 📦 Order History
 
-"Shopsy Order History" (./screenshots/orders.png)
+"Shopsy Order History" (https://raw.githubusercontent.com/Aniket-767/shopsy_store/main/screenshots/orders.png)
 
 🛠️ Tech Stack
 
