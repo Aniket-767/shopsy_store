@@ -27,21 +27,17 @@ Shopsy is a shopping website project featuring product browsing, cart management
 
 📸 Screenshots
 
-🏠 Homepage
-
-"Shopsy Homepage" screenshots/homepage.png
+🏠 Homepage 
+(./screenshots/homepage.png)
 
 🛒 Shopping Cart
-
-"Shopsy Cart" screenshots/cart.png
+ (./screenshots/cart.png)
 
 ❤️ Wishlist
-
-"Shopsy Wishlist" screenshots/wishlist.png
+(./screenshots/wishlist.png)
 
 📦 Order History
-
-"Shopsy Order History" screenshots/orders.png
+(./screenshots/orders.png)
 
 🛠️ Tech Stack
 
